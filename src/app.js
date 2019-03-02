@@ -2,7 +2,7 @@ var s ;
 var time = 300; // in seconds
 var food;
 function setup(){
- createCanvas(1200,500);
+ createCanvas(1000,450);
  s= new Snake();
  s.setup(4);
  frameRate(10);
