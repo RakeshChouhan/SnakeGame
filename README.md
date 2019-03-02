@@ -1,5 +1,5 @@
 # SnakeGame
-Old school snake game with Canvas and P5js
+Snake game with Canvas and P5js
 
 1. Open index.html
 2. Use Arrow keys to move snake and try to eat the food.
