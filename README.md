@@ -8,4 +8,4 @@ Old school snake game with Canvas and P5js
 5. To restart game refresh the page.
 
 Access the game page:
-https://snakegame5.herokuapp.com/index.htm
+https://snakegame5.herokuapp.com/index.html
